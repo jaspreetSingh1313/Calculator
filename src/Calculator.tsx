@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Box from "./Box";
-import bkspace from "./assets/backspace (1).png";
+import bkspace from "./assets/backspace (2).png";
 // import { toNumber } from "lodash";
 // import { imgProperties } from "@fluentui/react";
 
